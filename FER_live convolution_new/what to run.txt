@@ -1,0 +1,4 @@
+run the live_convolution.py file in an editor or use the command prompt:
+
+open the folder's cmd
+paste -->  python live_convolution.py
